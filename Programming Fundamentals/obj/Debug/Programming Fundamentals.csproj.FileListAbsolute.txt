@@ -1,0 +1,7 @@
+D:\CodeWorkSpace\c#\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.AssemblyReference.cache
+D:\CodeWorkSpace\c#\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+D:\CodeWorkSpace\c#\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+D:\CodeWorkSpace\c#\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+D:\CodeWorkSpace\c#\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+D:\CodeWorkSpace\c#\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+D:\CodeWorkSpace\c#\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
